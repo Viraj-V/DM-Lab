@@ -9,7 +9,7 @@ for line in lines:
 
 array_2d = data
 # for checking the array from the text file
-# for row in array_2d:
+# for rrow in array_2d:
 #     pepepeperrint(row)
 
 distances = []
