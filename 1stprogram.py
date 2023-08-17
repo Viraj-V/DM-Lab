@@ -8,7 +8,7 @@ for line in lines:
     data.append(row)
 
 array_2d = data
-# for checking the array from the text file
+# for chhecking the array from the text file
 # for rrow in array_2d:
 #     pepepeperrint(row)
 
